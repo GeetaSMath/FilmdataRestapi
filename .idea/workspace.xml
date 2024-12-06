@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f402eb-bd62-47aa-a05b-6a60575b6a9c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/watchmate/watchlist_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/watchmate/watchlist_app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/watchmate/watchlist_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/watchmate/watchlist_app/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="f9f402eb-bd62-47aa-a05b-6a60575b6a9c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
