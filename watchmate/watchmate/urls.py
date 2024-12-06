@@ -22,7 +22,7 @@ from watchlist_app import urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('movie/', include('watchlist_app.urls'))
+    path('movie/', include('watchlist_app.api.urls'))
 ]
 
 
